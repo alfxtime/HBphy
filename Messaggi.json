@@ -5,11 +5,11 @@
     {
       "id": 3,
       "data": "2026-03-19",
-      "titolo": "Aggiornamento Importante",
+      "titolo": "Aggiornamento",
       "testo": "Ricorda di mantenere sempre attivo l'heartbeat.",
-      "priorita": "alta",
+      "priorita": "bassa",
       "link": "https://sites.google.com/view/phymaptrading/home-page"
     }
   ],
-  "ultimo_messaggio_id": 3
+  "ultimo_messaggio_id": 1
 }
