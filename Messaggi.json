@@ -3,14 +3,6 @@
   "versione": "1.0",
   "messaggi": [
     {
-      "id": 1,
-      "data": "2026-03-19",
-      "titolo": "Benvenuto in PhyMap",
-      "testo": "Questo è un messaggio di esempio.",
-      "priorita": "bassa",
-      "link": ""
-    },
-    {
       "id": 3,
       "data": "2026-03-19",
       "titolo": "Aggiornamento Importante",
