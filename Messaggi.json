@@ -8,7 +8,6 @@
       "titolo": "Benvenuto in PhyMap",
       "testo": "Questo è un messaggio di esempio.",
       "priorita": "bassa",
-      "letta": false,
       "link": ""
     },
     {
@@ -17,7 +16,6 @@
       "titolo": "Aggiornamento Importante",
       "testo": "Ricorda di mantenere sempre attivo l'heartbeat.",
       "priorita": "alta",
-      "letta": false,
       "link": "https://sites.google.com/view/phymaptrading/home-page"
     }
   ],
