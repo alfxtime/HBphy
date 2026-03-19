@@ -3,13 +3,13 @@
   "versione": "1.0",
   "messaggi": [
     {
-      "id": 1,
+      "id": 2,
       "data": "2026-03-19",
       "titolo": "Aggiornamento",
-      "testo": "Ricorda di mantenere sempre attivo l'heartbeat.",
+      "testo": "Ciao, ricorda di mantenere sempre attivo l'heartbeat.",
       "priorita": "bassa",
-      "link": ""
+      "link": "https://sites.google.com/view/phymaptrading/home-page"
     }
   ],
-  "ultimo_messaggio_id": 1
+  "ultimo_messaggio_id": 2
 }
