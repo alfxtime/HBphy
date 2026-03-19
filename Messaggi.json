@@ -1,0 +1,25 @@
+{
+  "ultimo_aggiornamento": "2026-03-19 12:00:00",
+  "versione": "1.0",
+  "messaggi": [
+    {
+      "id": 1,
+      "data": "2026-03-19",
+      "titolo": "Benvenuto in PhyMap",
+      "testo": "Questo è un messaggio di esempio. Puoi scrivere quello che vuoi qui.",
+      "priorita": "bassa",
+      "letta": false,
+      "link": ""
+    },
+    {
+      "id": 2,
+      "data": "2026-03-19",
+      "titolo": "Aggiornamento Importante",
+      "testo": "Ricorda di mantenere sempre attivo l'heartbeat.",
+      "priorita": "alta",
+      "letta": false,
+      "link": "https://sites.google.com/view/phymaptrading/home-page"
+    }
+  ],
+  "ultimo_messaggio_id": 2
+}
