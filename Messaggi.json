@@ -1,5 +1,5 @@
 {
-  "ultimo_aggiornamento": "2026-03-19 12:00:00",
+  "ultimo_aggiornamento": "2026-04-02 12:00:00",
   "versione": "1.0",
   "messaggi": [
     {
@@ -9,21 +9,12 @@
       "testo": "Ciao, ricorda di mantenere sempre attivo l'heartbeat.",
       "priorita": "bassa",
       "link": "https://sites.google.com/view/phymaptrading/phystudy"
-    }
-  ],
-  "ultimo_messaggio_id": 1
-}
-{
-  "ultimo_aggiornamento": "2026-04-02 12:00:00",
-  "versione": "1.0",
-  "messaggi": [
+    },
     {
       "id": 2,
       "data": "2026-04-02",
       "titolo": "Consigli per il corretto allineamento del sistema",
-      "testo": "Dopo ogni riavvio di MT4, anche se i pulsanti risultano attivi, è consigliato disattivarli e riattivarli per assicurare il corretto allineamento.
-Allo stesso modo, riavviare l’indicatore WAYV dopo ogni riavvio della piattaforma.
-Verificare sempre che l’opzione “Permetti importazioni DLL” sia attiva su tutti gli indicatori.",
+      "testo": "Dopo ogni riavvio di MT4, anche se i pulsanti risultano attivi, è consigliato disattivarli e riattivarli per assicurare il corretto allineamento.\nAllo stesso modo, riavviare l’indicatore WAYV dopo ogni riavvio della piattaforma.\nVerificare sempre che l’opzione \"Permetti importazioni DLL\" sia attiva su tutti gli indicatori.",
       "priorita": "bassa",
       "link": ""
     }
