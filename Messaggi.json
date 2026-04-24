@@ -3,12 +3,12 @@
   "versione": "1.0",
   "messaggi": [
     {
-      "id": 1,
-      "data": "2026-03-19",
-      "titolo": "Aggiornamento",
-      "testo": "Ciao, ricorda di mantenere sempre attivo l'heartbeat.",
+      "id": 3,
+      "data": "2026-04-24",
+      "titolo": "Server offline",
+      "testo": "Il server PhyMap oggi è offline dalle 17, ritornerà attivo lunedì",
       "priorita": "bassa",
-      "link": "https://sites.google.com/view/phymaptrading/phystudy"
+      "link": ""
     },
     {
       "id": 2,
@@ -19,5 +19,5 @@
       "link": ""
     }
   ],
-  "ultimo_messaggio_id": 2
+  "ultimo_messaggio_id": 3
 }
