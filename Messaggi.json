@@ -3,12 +3,12 @@
   "versione": "1.0",
   "messaggi": [
     {
-      "id": 4,
-      "data": "2026-05-11",
-      "titolo": "Master PhyMap",
-      "testo": "Da oggi è disponibile il percorso formativo “one to one”: potrai scegliere giorno e orario della settimana per iniziare un affiancamento privato, finalizzato allo studio della correlazione tra prezzo, tempo e volumi.",
+      "id": 5,
+      "data": "2026-05-25",
+      "titolo": "Memorial Day",
+      "testo": "In occasione della festività odierna (Memorial Day), i server PhyMap chiuderanno anticipatamente alle ore 15:30. Il servizio riprenderà regolarmente domani.",
       "priorita": "bassa",
-      "link": "https://t.me/phymap/883"
+      "link": ""
     },
     {
       "id": 2,
@@ -19,5 +19,5 @@
       "link": ""
     }
   ],
-  "ultimo_messaggio_id": 4
+  "ultimo_messaggio_id": 5
 }
