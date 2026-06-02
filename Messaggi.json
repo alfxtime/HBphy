@@ -3,12 +3,12 @@
   "versione": "1.0",
   "messaggi": [
     {
-      "id": 5,
-      "data": "2026-05-25",
-      "titolo": "Memorial Day",
-      "testo": "In occasione della festività odierna (Memorial Day), i server PhyMap chiuderanno anticipatamente alle ore 15:30. Il servizio riprenderà regolarmente domani.",
+      "id": 6,
+      "data": "2026-06-01",
+      "titolo": "Sito",
+      "testo": "Il nostro nuovo sito è online!",
       "priorita": "bassa",
-      "link": ""
+      "link": "phymaptrading.com"
     },
     {
       "id": 2,
@@ -19,5 +19,5 @@
       "link": ""
     }
   ],
-  "ultimo_messaggio_id": 5
+  "ultimo_messaggio_id": 6
 }
