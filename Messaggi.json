@@ -3,9 +3,9 @@
   "versione": "1.0",
   "messaggi": [
     {
-      "id": 8,
+      "id": 9,
       "data": "2026-07-03",
-      "titolo": "Orari server",
+      "titolo": "Chiusura anticipata server",
       "testo": "Buongiorno, oggi i server PhyMap saranno attivi fino alle ore 15, poiché i mercati finanziari statunitensi sono chiusi in occasione della festività dell’Independence Day",
       "priorita": "alta",
       "link": ""
@@ -19,5 +19,5 @@
       "link": ""
     }
   ],
-  "ultimo_messaggio_id": 8
+  "ultimo_messaggio_id": 9
 }
