@@ -3,10 +3,10 @@
   "versione": "1.0",
   "messaggi": [
     {
-      "id": 7,
+      "id": 8,
       "data": "2026-06-19",
       "titolo": "Orari server",
-      "testo": "Buongiorno, i server PhyMap oggi saranno attivi fino alle ore 15, in quanto i mercati finanziari statunitensi sono chiusi per la festività del Juneteenth National Independence Day, con conseguente riduzione delle attività operative.",
+      "testo": "Buongiorno, oggi i server PhyMap saranno attivi fino alle ore 15, poiché i mercati finanziari statunitensi sono chiusi in occasione della festività dell’Independence Day",
       "priorita": "alta",
       "link": ""
     },
@@ -19,5 +19,5 @@
       "link": ""
     }
   ],
-  "ultimo_messaggio_id": 7
+  "ultimo_messaggio_id": 8
 }
