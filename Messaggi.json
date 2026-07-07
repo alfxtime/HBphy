@@ -1,12 +1,12 @@
 {
-  "ultimo_aggiornamento": "2026-07-03 00:00:00",
+  "ultimo_aggiornamento": "2026-07-07 00:00:00",
   "versione": "1.0",
   "messaggi": [
     {
-      "id": 9,
-      "data": "2026-07-03",
-      "titolo": "Chiusura anticipata server",
-      "testo": "Buongiorno, oggi i server PhyMap saranno attivi fino alle ore 15, poiché i mercati finanziari statunitensi sono chiusi in occasione della festività dell’Independence Day",
+      "id": 10,
+      "data": "2026-07-07",
+      "titolo": "Server offline",
+      "testo": "Buongiorno, si comunica che oggi il server PhyMap sarà temporaneamente offline a causa di interventi di manutenzione tecnica.",
       "priorita": "alta",
       "link": ""
     },
@@ -19,5 +19,5 @@
       "link": ""
     }
   ],
-  "ultimo_messaggio_id": 9
+  "ultimo_messaggio_id": 10
 }
